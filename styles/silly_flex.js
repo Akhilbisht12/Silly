@@ -3,6 +3,21 @@ const silly_flex = StyleSheet.create({
   f1: {
     flex: 1,
   },
+  f2: {
+    flex: 2,
+  },
+  f3: {
+    flex: 3,
+  },
+  fg1: {
+    flexGrow: 1,
+  },
+  fg2: {
+    flexGrow: 2,
+  },
+  fg3: {
+    flexGrow: 3,
+  },
   fr: {
     flexDirection: 'row',
   },

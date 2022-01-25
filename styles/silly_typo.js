@@ -34,5 +34,26 @@ const silly_typo = StyleSheet.create({
   fwN: {
     fontWeight: 'normal',
   },
+  fs14: {
+    fontSize: 14,
+  },
+  fs16: {
+    fontSize: 16,
+  },
+  fs18: {
+    fontSize: 18,
+  },
+  fs20: {
+    fontSize: 20,
+  },
+  fs25: {
+    fontSize: 25,
+  },
+  fs30: {
+    fontSize: 30,
+  },
+  fs40: {
+    fontSize: 40,
+  },
 });
 export default silly_typo;

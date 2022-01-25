@@ -61,6 +61,144 @@ const silly_pm = StyleSheet.create({
   px5: {
     paddingHorizontal: 50,
   },
+  mt1M: {
+    marginTop: -10,
+  },
+  mt2M: {
+    marginTop: -20,
+  },
+  mt3M: {
+    marginTop: -30,
+  },
+  mt4M: {
+    marginTop: -40,
+  },
+  mt5M: {
+    marginTop: -50,
+  },
+  mt1: {
+    marginTop: 10,
+  },
+  mt2: {
+    marginTop: 20,
+  },
+  mt3: {
+    marginTop: 30,
+  },
+  mt4: {
+    marginTop: 40,
+  },
+  mt5: {
+    marginTop: 50,
+  },
+  ml1: {
+    marginLeft: 10,
+  },
+  ml2: {
+    marginLeft: 20,
+  },
+  ml3: {
+    marginLeft: 30,
+  },
+  ml4: {
+    marginLeft: 40,
+  },
+  ml5: {
+    marginLeft: 50,
+  },
+  pt1: {
+    paddingTop: 10,
+  },
+  pt2: {
+    paddingTop: 20,
+  },
+  pt3: {
+    paddingTop: 30,
+  },
+  pt4: {
+    paddingTop: 40,
+  },
+  pt5: {
+    paddingTop: 50,
+  },
+  pl1: {
+    paddingLeft: 10,
+  },
+  pl2: {
+    paddingLeft: 20,
+  },
+  pl3: {
+    paddingLeft: 30,
+  },
+  pl4: {
+    paddingLeft: 40,
+  },
+  pl5: {
+    paddingLeft: 50,
+  },
+  mb1: {
+    marginBottom: 10,
+  },
+  mb2: {
+    marginBottom: 20,
+  },
+  mb3: {
+    marginBottom: 30,
+  },
+  mb4: {
+    marginBottom: 40,
+  },
+  mb5: {
+    marginBottom: 50,
+  },
+  mr1: {
+    marginRight: 10,
+  },
+  mr2: {
+    marginRight: 20,
+  },
+  mr3: {
+    marginRight: 30,
+  },
+  mr4: {
+    marginRight: 40,
+  },
+  mr5: {
+    marginRight: 50,
+  },
+  pb1: {
+    paddingBottom: 10,
+  },
+  pb2: {
+    paddingBottom: 20,
+  },
+  pb3: {
+    paddingBottom: 30,
+  },
+  pb4: {
+    paddingBottom: 40,
+  },
+  pb5: {
+    paddingBottom: 50,
+  },
+  pr1: {
+    paddingRight: 10,
+  },
+  pr2: {
+    paddingRight: 20,
+  },
+  pr3: {
+    paddingRight: 30,
+  },
+  pr4: {
+    paddingRight: 40,
+  },
+  pr5: {
+    paddingRight: 50,
+  },
+  ph: {
+    padding: 5,
+  },
   p1: {
     padding: 10,
   },
@@ -75,6 +213,9 @@ const silly_pm = StyleSheet.create({
   },
   p5: {
     padding: 50,
+  },
+  mh: {
+    margin: 5,
   },
   m1: {
     margin: 10,

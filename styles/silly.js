@@ -4,6 +4,7 @@ import silly_hw from './silly_hw';
 import silly_clr from './silly_clr';
 import silly_br from './silly_br';
 import silly_flex from './silly_flex';
+import silly_dp from './silly_dp';
 
 const silly = {
   ...silly_pm,
@@ -12,6 +13,7 @@ const silly = {
   ...silly_clr,
   ...silly_br,
   ...silly_flex,
+  ...silly_dp,
 };
 
 export default silly;

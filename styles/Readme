@@ -1,0 +1,9 @@
+br->border radius
+clr->color
+dp->display & positions
+flex->flex & properties
+hw->height & width
+pm->padding & margin
+typo->typography
+
+temp is for generally find certain property and clone to other property : like changing p5 to m5 properties
